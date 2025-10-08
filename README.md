@@ -1,3 +1,6 @@
+![header_image](terminator_becomes_self_aware1.png)
+
+
 # Laravel Toronto meet-up, Oct 16/2025
 Laravel Toronto meet-up, on Oct 16, 2025 (Journeying Through PHP + Laravel + AI)
 
