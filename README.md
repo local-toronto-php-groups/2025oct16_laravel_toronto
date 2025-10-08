@@ -45,3 +45,7 @@ I am looking forward to seeing you! It has been a while!
 ##
 Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/311407409/](https://www.meetup.com/laravel-toronto/events/311407409/)
 
+##
+Links:
+- [(YouTube)PHP Alive And Kicking: Episode 4 - Ashley Hindle](https://www.youtube.com/watch?v=anOlogVgOlo)
+
